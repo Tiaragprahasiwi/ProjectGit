@@ -3,7 +3,9 @@ package PegadaianGit;
 
 public class Main {
 
-		System.out.println("Hello Tiara");
+	public static void main(String[] args) {
+
+		System.out.println("Hello Tiara2");
 
 	}
 
